@@ -53,7 +53,7 @@
             
         }
 
-        function touchStarted() {
+        function touchEnded() {
             if (touchX > 100 * randCol + 5 && touchX < 100 * randCol + 95 && touchY > 100 * randRow + 5 && touchY < 100 * randRow + 95) { // mouse is inside correct square
                 sqColor = [random(240), random(240), random(240)]; // generate new regular color
                 // sqColorOff = [sqColor[0] + random(5,20), sqColor[1] + random(5,20), sqColor[2] + random(5,20)]; // generate new random color
