@@ -1,2 +1,2 @@
 ### To-Do:
-* Use bootstrap to ptimize for mobile
+* Use bootstrap to optimize for mobile
